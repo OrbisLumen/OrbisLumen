@@ -44,10 +44,14 @@
   <tr>
     <td><a href="https://orbislumen.blog/"><b>OrbisLumenの部屋</b></a></td>
     <td>学习笔记、技术折腾、ACGN 与日常随笔。</td>
-  </tr>
+  </tr>  
   <tr>
-    <td><a href="https://github.com/OrbisLumen/Shirone"><b>Shirone</b></a></td>
-    <td>正在阅读、学习与折腾的博客主题；<a href="https://github.com/LyraVoid/Shirone">上游项目</a>。</td>
+    <td><a href="https://dango.orbislumen.blog/"><b>Dango Family</b></a></td>
+    <td>团子庭院、给麻子的小祝福。</td>
+  </tr>
+    <tr>
+    <td><a href="https://team.orbislumen.blog/"><b>Team Up</b></a></td>
+    <td>键子们的团建活动。</td>
   </tr>
 </table>
 
@@ -60,22 +64,9 @@
   <li><a href="https://orbislumen.blog/posts/tech-projects/remotion/"><b>Remotion With LLM</b></a> — 用代码和 AI 探索视频制作。</li>
 </ul>
 
-<h2>🐾 A Little Side Quest</h2>
-
 <p align="center">
   <img src="./assets/companion.svg" width="640" alt="会眨眼、摇尾巴的小猫：Keep a little curiosity. One tiny discovery at a time." />
 </p>
-
-<details>
-  <summary>🌸 点击领取今天的小小支线</summary>
-  <p>路过的小猫给你留了三个选项，选一个喜欢的就好：</p>
-  <ul>
-    <li>📖 <a href="https://orbislumen.blog/posts/cs-studies/visual-cot-papers/">翻一页论文笔记</a>：带走一个新问题。</li>
-    <li>🎧 <a href="https://orbislumen.blog/posts/tech-projects/gpt-sovits/">探索角色的声音</a>：看看一次配音实验。</li>
-    <li>🏡 <a href="https://orbislumen.blog/">去小屋随便逛逛</a>：今天也可以只是休息。</li>
-  </ul>
-  <p><sub>支线没有截止日期，慢慢来就好。 ฅ^•ﻌ•^ฅ</sub></p>
-</details>
 
 <h2>📊 GitHub Activity</h2>
 
