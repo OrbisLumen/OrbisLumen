@@ -3,20 +3,20 @@
 
 <div align="center">
   <a href="https://orbislumen.blog/">
-    <img src="./assets/banner.webp" width="100%" alt="博客同款横幅：夏日、绿意与动漫少女" />
+    <img src="./assets/banner.webp" width="100%" alt="博客同款横幅：樱花、粉色光影与动漫少女" />
   </a>
   <h1>Hi 👋 I'm OrbisLumen</h1>
   <p><i>The rain remembers what the sky forgot to say.</i></p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;pause=1600&amp;color=57966A&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Learning+CS+%26+Machine+Learning;Exploring+ideas+with+AI;Anime%2C+stories%2C+and+little+things" width="100%" alt="Learning CS &amp; Machine Learning · Exploring ideas with AI · Anime, stories, and little things" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;pause=1600&amp;color=C66B93&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Learning+CS+%26+Machine+Learning;Exploring+ideas+with+AI;Anime%2C+stories%2C+and+little+things" width="100%" alt="Learning CS &amp; Machine Learning · Exploring ideas with AI · Anime, stories, and little things" />
   <p>
-    <a href="https://orbislumen.blog/"><img src="https://img.shields.io/badge/Blog-orbislumen.blog-57966A?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Blog" /></a>
-    <a href="https://space.bilibili.com/646161462"><img src="https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" /></a>
-    <a href="https://x.com/SorryToDoIt"><img src="https://img.shields.io/badge/X-24292F?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
-    <a href="https://steamcommunity.com/profiles/76561199269109608/"><img src="https://img.shields.io/badge/Steam-253B54?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" /></a>
+    <a href="https://orbislumen.blog/"><img src="https://img.shields.io/badge/Blog-orbislumen.blog-C66B93?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Blog" /></a>
+    <a href="https://space.bilibili.com/646161462"><img src="https://img.shields.io/badge/Bilibili-E58BAC?style=for-the-badge&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" /></a>
+    <a href="https://x.com/SorryToDoIt"><img src="https://img.shields.io/badge/X-A96286?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
+    <a href="https://steamcommunity.com/profiles/76561199269109608/"><img src="https://img.shields.io/badge/Steam-916787?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" /></a>
   </p>
 </div>
 
-<h2>🌿 About Me</h2>
+<h2>🌸 About Me</h2>
 
 <p>我是 <b>OrbisLumen</b>，一名软件工程在读本科生。这里放着我的学习记录、一些小项目，以及从好奇心出发的尝试。</p>
 <ul>
@@ -60,13 +60,30 @@
   <li><a href="https://orbislumen.blog/posts/tech-projects/remotion/"><b>Remotion With LLM</b></a> — 用代码和 AI 探索视频制作。</li>
 </ul>
 
+<h2>🐾 A Little Side Quest</h2>
+
+<p align="center">
+  <img src="./assets/companion.svg" width="640" alt="会眨眼、摇尾巴的小猫：Keep a little curiosity. One tiny discovery at a time." />
+</p>
+
+<details>
+  <summary>🌸 点击领取今天的小小支线</summary>
+  <p>路过的小猫给你留了三个选项，选一个喜欢的就好：</p>
+  <ul>
+    <li>📖 <a href="https://orbislumen.blog/posts/cs-studies/visual-cot-papers/">翻一页论文笔记</a>：带走一个新问题。</li>
+    <li>🎧 <a href="https://orbislumen.blog/posts/tech-projects/gpt-sovits/">探索角色的声音</a>：看看一次配音实验。</li>
+    <li>🏡 <a href="https://orbislumen.blog/">去小屋随便逛逛</a>：今天也可以只是休息。</li>
+  </ul>
+  <p><sub>支线没有截止日期，慢慢来就好。 ฅ^•ﻌ•^ฅ</sub></p>
+</details>
+
 <h2>📊 GitHub Activity</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=OrbisLumen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=57966A&amp;icon_color=57966A&amp;text_color=8B949E" width="49%" alt="OrbisLumen 的 GitHub 统计" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OrbisLumen&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=57966A&amp;text_color=8B949E" width="44%" alt="公开仓库的语言分布" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=OrbisLumen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C66B93&amp;icon_color=C66B93&amp;text_color=8B949E" width="49%" alt="OrbisLumen 的 GitHub 统计" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=OrbisLumen&amp;layout=compact&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C66B93&amp;text_color=8B949E" width="44%" alt="公开仓库的语言分布" />
   <p><sub>语言分布反映公开仓库内容。</sub></p>
-  <img src="https://streak-stats.demolab.com/?user=OrbisLumen&amp;theme=transparent&amp;hide_border=true&amp;ring=57966A&amp;fire=57966A&amp;currStreakLabel=57966A" width="70%" alt="OrbisLumen 的 GitHub 连续贡献统计" />
+  <img src="https://streak-stats.demolab.com/?user=OrbisLumen&amp;theme=transparent&amp;hide_border=true&amp;ring=C66B93&amp;fire=C66B93&amp;currStreakLabel=C66B93" width="70%" alt="OrbisLumen 的 GitHub 连续贡献统计" />
 </div>
 
 <hr />
@@ -74,7 +91,7 @@
 <div align="center">
   <p>「今日はなんでもない日。でも、ちょっとだけいい日。」</p>
   <p><sub>今天是平凡的一天，但也有一点点美好。</sub></p>
-  <p>🌿 Thanks for stopping by · <a href="https://orbislumen.blog/">来我的小屋坐坐</a></p>
+  <p>🌸 Thanks for stopping by · <a href="https://orbislumen.blog/">来我的小屋坐坐</a></p>
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="绿色波浪页脚" />
+<img src="./assets/footer.svg" width="100%" alt="动态粉色波浪与漂浮爱心" />

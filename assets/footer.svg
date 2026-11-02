@@ -1,1 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="96" viewBox="0 0 960 96"><path fill="#dcebdc" d="M0 40c160-80 280 55 480 0s340-40 480-4v60H0Z"/><path fill="#79a587" d="M0 65c160-65 350 50 530 0s300-10 430 0v31H0Z"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="120" viewBox="0 0 960 120" role="img" aria-labelledby="title">
+<title id="title">Soft pink waves flowing beneath a floating heart</title>
+<style>
+.wave{animation:flow 16s linear infinite}.back{animation-duration:24s;animation-delay:-6s;animation-direction:reverse}.front{animation-duration:12s;animation-delay:-5s}.heart{animation:bob 4s ease-in-out infinite}
+/* Each wave repeats every 640 units; shifting one period makes the loop seamless. */
+@keyframes flow{from{transform:translateX(0)}to{transform:translateX(-640px)}}
+@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-7px)}}
+@media(prefers-reduced-motion:reduce){.wave,.heart{animation:none}}
+</style>
+<path class="wave back" fill="#fce5ee" d="M-640 42Q-480 5 -320 42T0 42T320 42T640 42T960 42T1280 42T1600 42T1920 42V120H-640Z"/>
+<path class="wave" fill="#f2bed2" d="M-640 67Q-480 22 -320 67T0 67T320 67T640 67T960 67T1280 67T1600 67T1920 67V120H-640Z"/>
+<path class="wave front" fill="#d98baa" d="M-640 88Q-480 55 -320 88T0 88T320 88T640 88T960 88T1280 88T1600 88T1920 88V120H-640Z"/>
+<path class="heart" fill="#b55680" d="M480 39C464 29 466 18 473 18C478 18 480 22 480 22C483 16 493 16 494 23C496 29 486 36 480 39Z"/>
+</svg>
