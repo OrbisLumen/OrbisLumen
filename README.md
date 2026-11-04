@@ -5,36 +5,36 @@
   <a href="https://orbislumen.blog/">
     <img src="./assets/banner.webp" width="100%" alt="博客同款横幅：樱花、粉色光影与动漫少女" />
   </a>
-  <h1>Hi 👋 I'm OrbisLumen</h1>
+  <h1>Hi 🌸 I'm OrbisLumen</h1>
   <p><i>The rain remembers what the sky forgot to say.</i></p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=21&amp;pause=1600&amp;color=C66B93&amp;center=true&amp;vCenter=true&amp;width=780&amp;lines=Learning+CS+%26+Machine+Learning;Exploring+ideas+with+AI;Anime%2C+stories%2C+and+little+things" width="100%" alt="Learning CS &amp; Machine Learning · Exploring ideas with AI · Anime, stories, and little things" />
   <p>
-    <a href="https://orbislumen.blog/"><img src="https://img.shields.io/badge/Blog-orbislumen.blog-C66B93?style=for-the-badge&amp;logo=astro&amp;logoColor=white" alt="Blog" /></a>
-    <a href="https://space.bilibili.com/646161462"><img src="https://img.shields.io/badge/Bilibili-E58BAC?style=for-the-badge&amp;logo=bilibili&amp;logoColor=white" alt="Bilibili" /></a>
-    <a href="https://x.com/SorryToDoIt"><img src="https://img.shields.io/badge/X-A96286?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" /></a>
-    <a href="https://steamcommunity.com/profiles/76561199269109608/"><img src="https://img.shields.io/badge/Steam-916787?style=for-the-badge&amp;logo=steam&amp;logoColor=white" alt="Steam" /></a>
+    <a href="https://orbislumen.blog/"><img src="https://img.shields.io/badge/Blog-orbislumen.blog-C66B93?style=for-the-badge&amp;logo=astro&amp;logoColor=FFEAF3" alt="Blog" /></a>
+    <a href="https://space.bilibili.com/646161462"><img src="https://img.shields.io/badge/Bilibili-E58BAC?style=for-the-badge&amp;logo=bilibili&amp;logoColor=FFEAF3" alt="Bilibili" /></a>
+    <a href="https://x.com/SorryToDoIt"><img src="https://img.shields.io/badge/X-A96286?style=for-the-badge&amp;logo=x&amp;logoColor=FFEAF3" alt="X" /></a>
+    <a href="https://steamcommunity.com/profiles/76561199269109608/"><img src="https://img.shields.io/badge/Steam-916787?style=for-the-badge&amp;logo=steam&amp;logoColor=FFEAF3" alt="Steam" /></a>
   </p>
 </div>
 
-<h2>🌸 About Me</h2>
+<h2><img src="./assets/icons/about.svg" width="24" height="24" alt="" /> About Me</h2>
 
 <p>我是 <b>OrbisLumen</b>，一名软件工程在读本科生。这里放着我的学习记录、一些小项目，以及从好奇心出发的尝试。</p>
 <ul>
-  <li>📚 正在打基础：计算机组成、编译原理与数学。</li>
-  <li>🌱 学习机器学习，阅读多模态与视觉推理相关论文，慢慢整理自己的理解。</li>
-  <li>🛠️ 和 AI 一起探索小工具、个人网站与生成式内容，也在逐步读懂实现。</li>
-  <li>🎐 喜欢 ACGN、视觉小说与动画，偶尔写些随笔和兴趣记录。</li>
-  <li>🏡 <a href="https://orbislumen.blog/">OrbisLumenの部屋</a>：技术成长的记录，也是一个属于自己的小空间。</li>
+  <li>正在打基础：计算机组成、编译原理与数学。</li>
+  <li>学习机器学习，阅读多模态与视觉推理相关论文，慢慢整理自己的理解。</li>
+  <li>和 AI 一起探索小工具、个人网站与生成式内容，也在逐步读懂实现。</li>
+  <li>喜欢 ACGN、视觉小说与动画，偶尔写些随笔和兴趣记录。</li>
+  <li><a href="https://orbislumen.blog/">OrbisLumenの部屋</a>：技术成长的记录，也是一个属于自己的小空间。</li>
 </ul>
 
-<h2>🧩 Learning &amp; Exploring</h2>
+<h2><img src="./assets/icons/learning.svg" width="24" height="24" alt="" /> Learning &amp; Exploring</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,linux&amp;theme=light" alt="正在学习与使用：Python、Java、C++、Git、Linux" />
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,git,linux,html,css,js,ts,astro,docker&amp;theme=light&amp;perline=6" alt="正在学习与使用：Python、Java、C++、Git、Linux、HTML、CSS、JavaScript、TypeScript、Astro、Docker" />
 </p>
 <p align="center"><sub>CS foundations · Machine learning · Multimodal reasoning</sub></p>
 
-<h2>🏡 My Little Corner</h2>
+<h2><img src="./assets/icons/corner.svg" width="24" height="24" alt="" /> My Little Corner</h2>
 
 <table>
   <tr>
@@ -55,20 +55,7 @@
   </tr>
 </table>
 
-<h2>📝 From My Blog</h2>
-
-<ul>
-  <li><a href="https://orbislumen.blog/posts/cs-studies/visual-cot-papers/"><b>Paper (Visual CoT)</b></a> — 从 CoT 到隐式视觉推理，整理多模态推理相关论文的阅读笔记。</li>
-  <li><a href="https://orbislumen.blog/posts/tech-projects/qq-bot/"><b>QQ-Bot</b></a> — 把大模型接入日常聊天，记录机器人与服务部署的折腾过程。</li>
-  <li><a href="https://orbislumen.blog/posts/tech-projects/gpt-sovits/"><b>GPT-SoVITS</b></a> — 尝试本地角色配音，记录数据、训练与试听过程。</li>
-  <li><a href="https://orbislumen.blog/posts/tech-projects/remotion/"><b>Remotion With LLM</b></a> — 用代码和 AI 探索视频制作。</li>
-</ul>
-
-<p align="center">
-  <img src="./assets/companion.svg" width="640" alt="会眨眼、摇尾巴的小猫：Keep a little curiosity. One tiny discovery at a time." />
-</p>
-
-<h2>📊 GitHub Activity</h2>
+<h2><img src="./assets/icons/activity.svg" width="24" height="24" alt="" /> GitHub Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=OrbisLumen&amp;show_icons=true&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=C66B93&amp;icon_color=C66B93&amp;text_color=8B949E" width="49%" alt="OrbisLumen 的 GitHub 统计" />
